@@ -31,9 +31,7 @@
 
 <br>
 <br>
-<hr>
 
-### ⚙️ Github Stats
 </details>
 
 <details>
