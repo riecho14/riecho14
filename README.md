@@ -38,13 +38,14 @@
   
 <hr/>
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=riecho14&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/riecho14/riecho14?color=black&logo=github" />
-</p>
-
 ### 🛠️ My Projects
 <a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=riecho14&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/riecho14/riecho14?color=black&logo=github" />
+</p>
