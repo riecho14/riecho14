@@ -35,5 +35,4 @@
 ![](https://raw.githubusercontent.com/riecho14/github-stats-transparent/output/generated/languages.svg)
 
 </a>
-<br>
 <hr/>
