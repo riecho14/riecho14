@@ -30,16 +30,18 @@
 <hr>
 
 ### 🧠 Languages and Tools:
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/c%23/c%23.svg" alt="C#" height="42px"/> </a>
-<a href="https://www.cplusplus.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg" alt="C++" height="42px"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/python/python.svg" alt="Python" height="42px"/> </a>
-<a href="https://flutter.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/flutter/flutter.svg" alt="Flutter" height="42px"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/dart/dart.svg" alt="Dart" height="42px"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/docker/docker.svg" alt="Docker" height="42px"/> </a>
-<a href="https://html.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/html/html.svg" alt="HTML" height="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/css/css.svg" alt="CSS" height="42px"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/javascript/javascript.svg" alt="Javascript" height="42px"/> </a>
-
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/c%23/c%23.svg" alt="C#" height="42px"/> </a>
+  <a href="https://www.cplusplus.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg" alt="C++" height="42px"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/python/python.svg" alt="Python" height="42px"/> </a>
+  <a href="https://flutter.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/flutter/flutter.svg" alt="Flutter" height="42px"/> </a>
+  <a href="https://dart.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/dart/dart.svg" alt="Dart" height="42px"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/docker/docker.svg" alt="Docker" height="42px"/> </a>
+  <a href="https://html.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/html/html.svg" alt="HTML" height="42px"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/css/css.svg" alt="CSS" height="42px"/> </a>
+  <a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/javascript/javascript.svg" alt="Javascript" height="42px"/> </a>
+</p>
+  
 <br>
 <br>
 <hr>
