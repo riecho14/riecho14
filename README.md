@@ -48,7 +48,5 @@
 <hr>
 
 ### 🛠️ My Projects
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+<a href="https://github.com/riecho14/Dendam-Si-Tikus" target="_blank"> <img alt="dendamsitikus" src="https://github.com/riecho14/Dendam-Si-Tikus/blob/791a719b6eb561226da3ed74e622011b81a47a69/logo.svg" height="68" align="left"> </a>
+<a href="https://github.com/riecho14/README_icons" target="_blank"> <img alt="readmeicons" src="https://github.com/riecho14/README_icons/blob/037c2e4cd1b1c9882fd0f7975a6a0807704684be/logo.svg"  height="68" align="left"> </a>
