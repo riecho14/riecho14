@@ -11,6 +11,16 @@
 - 📝 &nbsp; Checkout my [Portfolio](https://riecho14.github.io/Iecho-Portfolio/#) website.
 - 📚 &nbsp; When I'm free, I draw some illustrations on a black and white theme. Checkout my [Instagram](https://www.instagram.com/iechoartwork/) to see the illustrations I've created.
 
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <p align="center">
+      <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=riecho14&hide_border=true&theme=nightowl" />
+  </p>
+  <p align="center">
+      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=riecho14&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riecho14&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+  </p>
+</details>
+
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=riecho14&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/riecho14/riecho14?color=black&logo=github" />
@@ -33,15 +43,7 @@
 <br>
 <br>
 
-<details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <p align="center">
-      <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=riecho14&hide_border=true&theme=nightowl" />
-  </p>
-  <p align="center">
-      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=riecho14&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riecho14&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-  </p>
-</details>
+
 
 <hr/>
 
