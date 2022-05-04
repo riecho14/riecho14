@@ -28,6 +28,7 @@
 </p>
 
 <hr>
+<br>
 
 ### 🧠 Languages and Tools:
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/c%23/c%23.svg" alt="C#" height="42px"/> </a>
