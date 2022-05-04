@@ -29,10 +29,23 @@
 <br>
 
 ### ⚙️ Github Stats
-<a href='https://github.com/riecho14/github-stats-transparent'>
-  
-![](https://raw.githubusercontent.com/riecho14/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/riecho14/github-stats-transparent/output/generated/languages.svg)
+<p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=riecho14&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=riecho14&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riecho14&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
 
-</a>
 <hr/>
+
+<p align="center">
+ <a href="https://ko-fi.com/X8X48056Q">
+   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
+ </a>
+</p>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=riecho14&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/riecho14/riecho14?color=black&logo=github" />
+</p>
