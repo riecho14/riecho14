@@ -29,7 +29,6 @@
 <br>
 
 ### ⚙️ Github Stats
-<summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
