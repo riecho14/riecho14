@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/riecho14/riecho14/main/tenor.gif" height="260px" width="360px"/>
 
 ### 🧐 About Me
-- 🔭 &nbsp; I’m Currently studying S1 Informatics Engineering at the [ITERA](https://www.itera.ac.id/) (**Sumatera Institute of Technology**)
+- 🔭 &nbsp; I’m Currently studying Informatics Engineering at the [ITERA](https://www.itera.ac.id/) (**Sumatera Institute of Technology**)
 - 💓 &nbsp; Love for science and innovation.
 - 🌱 &nbsp; Passionate with problem solving.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
