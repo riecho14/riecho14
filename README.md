@@ -1,6 +1,6 @@
 <img src="images/svg/header.svg"></img>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/riecho14/riecho14/main/tenor.gif" height="360px" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/riecho14/riecho14/main/tenor.gif" height="290px" width="360px"/>
 
 ### :space_invader: &nbsp;About Me
 - 🔭 &nbsp; I’m Currently studying S1 Informatics Engineering at the [ITERA](https://www.itera.ac.id/) (**Sumatera Institute of Technology**)
