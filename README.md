@@ -48,5 +48,5 @@
 <hr>
 
 ### 🛠️ My Projects
-<a href="https://github.com/riecho14/Dendam-Si-Tikus" target="_blank"> <img alt="dendamsitikus" src="https://github.com/riecho14/Dendam-Si-Tikus/blob/791a719b6eb561226da3ed74e622011b81a47a69/logo.svg" height="10" align="left"> </a>
-<a href="https://github.com/riecho14/README_icons" target="_blank"> <img alt="readmeicons" src="https://github.com/riecho14/README_icons/blob/037c2e4cd1b1c9882fd0f7975a6a0807704684be/logo.svg"  height="10" align="left"> </a>
+<a href="https://github.com/riecho14/Dendam-Si-Tikus" target="_blank"> <img alt="dendamsitikus" src="https://github.com/riecho14/Dendam-Si-Tikus/blob/791a719b6eb561226da3ed74e622011b81a47a69/logo.svg" height="20" align="left"> </a>
+<a href="https://github.com/riecho14/README_icons" target="_blank"> <img alt="readmeicons" src="https://github.com/riecho14/README_icons/blob/037c2e4cd1b1c9882fd0f7975a6a0807704684be/logo.svg"  height="20" align="left"> </a>
