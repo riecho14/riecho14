@@ -1,4 +1,4 @@
-<img src="images/svg/header_en.svg"></img>
+<img src="images/svg/header.svg"></img>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/riecho14/riecho14/main/tenor.gif" width="360px"/>
 
@@ -29,8 +29,8 @@
 ### 📊 Github Stats
 <a href='https://github.com/riecho14/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/riecho14/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/riecho14/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/riecho14/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/riecho14/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
