@@ -30,6 +30,7 @@
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/javascript/javascript.svg" alt="Javascript" height="42px"/> </a>
 
 <br>
+<br>
 <hr>
 
 ### ⚙️ Github Stats
