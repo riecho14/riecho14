@@ -9,7 +9,7 @@
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/riecho14?tab=repositories)
 - 📝 &nbsp; Checkout my [Portfolio](https://riecho14.github.io/Iecho-Portfolio/#) website.
-- 📚 &nbsp; When I'm free, I draw some illustrations on a black and white &nbsp; theme. Checkout my [Instagram](https://www.instagram.com/iechoartwork/) to see the illustrations I've created.
+- 📚 &nbsp; When I'm free, I draw some illustrations on a black and white theme. Checkout my [Instagram](https://www.instagram.com/iechoartwork/) to see the illustrations I've created.
 
 <br>
 
