@@ -12,7 +12,6 @@
 - 📚 &nbsp; When I'm free, I draw some illustrations on a black and white theme. Checkout my [Instagram](https://www.instagram.com/iechoartwork/) to see the illustrations I've created.
 
 <hr/>
-<br>
 
 ### 🧠 Languages and Tools:
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/c%23/c%23.svg" alt="C#" height="42px"/> </a>
@@ -25,6 +24,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/css/css.svg" alt="CSS" height="42px"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/javascript/javascript.svg" alt="Javascript" height="42px"/> </a>
 
+<hr/>
 <br>
 <br>
 <br>
@@ -36,5 +36,5 @@
 ![](https://raw.githubusercontent.com/riecho14/github-stats-transparent/output/generated/languages.svg)
 
 </a>
-
 <br>
+<hr/>
