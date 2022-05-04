@@ -45,6 +45,4 @@
 <hr>
 
 ### 🛠️ My Projects
-<br>
-
 <a href="https://github.com/riecho14/README_icons" target="_blank"> <img alt="readmeicons" src="https://raw.githubusercontent.com/riecho14/README_icons/main/logo.svg" height="50" align="left"> </a>
