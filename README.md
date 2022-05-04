@@ -28,7 +28,7 @@
 <br>
 <br>
 
-### 📊 Github Stats
+### ⚙️ Github Stats
 <a href='https://github.com/riecho14/github-stats-transparent'>
   
 ![](https://raw.githubusercontent.com/riecho14/github-stats-transparent/output/generated/overview.svg)
