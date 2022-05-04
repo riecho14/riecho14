@@ -12,7 +12,7 @@
 - 📚 &nbsp; When I'm free, I draw some illustrations on a black and white theme. Checkout my [Instagram](https://www.instagram.com/iechoartwork/) to see the illustrations I've created.
 
 <details>
-  <summary>⚙️ &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br>
   <p align="center">
       <img height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=riecho14&hide_border=true&theme=nightowl" />
