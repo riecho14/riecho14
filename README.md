@@ -30,7 +30,7 @@
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/language_and_tools/square/javascript/javascript.svg" alt="Javascript" height="42px"/> </a>
 
 <hr>
-
+<br>
 ### ⚙️ Github Stats
   <p align="center">
       <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=riecho14&hide_border=true&theme=nightowl" />
