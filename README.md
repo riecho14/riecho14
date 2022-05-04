@@ -42,9 +42,6 @@
 <br>
 <br>
 <br>
-
-
-
-<hr/>
+<hr>
 
 ### 🛠️ My Projects
