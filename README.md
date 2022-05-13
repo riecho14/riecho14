@@ -51,5 +51,5 @@
 <p align="center">
   <a href="https://github.com/riecho14/README_icons" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/README_icons/main/logo.svg" alt="README Icons" height="55px"/> </a>
   <a href="https://github.com/riecho14/Green-Trash" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/Green-Trash/main/logo.svg" alt="Green Trash" height="55px"/> </a>
-  <a href="https://github.com/riecho14/Dendam-Si-Tikus" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/Dendam-Si-Tikus/main/logo.svg" alt="Dendam Si Tikus" height="55px"/> </a>
+  <a href="https://github.com/riecho14/Dendam-Si-Tikus" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/riecho14/Dendam-Si-Tikus/main/logo.svg" alt="Dendam Si Tikus" height="35px"/> </a>
   </p>
