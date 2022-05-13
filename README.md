@@ -51,3 +51,5 @@
 <a href="https://github.com/riecho14/Green-Trash" target="_blank"> <img alt="greentrash" src="https://raw.githubusercontent.com/riecho14/Green-Trash/main/logo.png" height="30" align="left"> </a>
 
 <a href="https://github.com/riecho14/Dendam-Si-Tikus" target="_blank"> <img alt="dendamsitikus" src="https://raw.githubusercontent.com/riecho14/Dendam-Si-Tikus/main/logo.png" height="30" align="left"> </a>
+
+<a href="https://github.com/riecho14/README_icons" target="_blank"> <img alt="readmeicons" src="https://raw.githubusercontent.com/riecho14/README_icons/main/logo.svg" height="30" align="left"> </a>
