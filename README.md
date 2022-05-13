@@ -49,3 +49,4 @@
 
 ### 🛠️ My Projects
 <a href="https://github.com/riecho14/Green-Trash" target="_blank"> <img alt="greentrash" src="https://raw.githubusercontent.com/riecho14/Green-Trash/main/logo.png" height="68" align="left"> </a>
+<a href="https://github.com/riecho14/Dendam-Si-Tikus" target="_blank"> <img alt="dendamsitikus" src="https://raw.githubusercontent.com/riecho14/Dendam-Si-Tikus/main/logo.png" height="68" align="left"> </a>
