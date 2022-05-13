@@ -49,7 +49,7 @@
 
 ### 🛠️ My Projects
 <p align="center">
-  <a href="https://github.com/riecho14/Dendam-Si-Tikus" target="_blank"> <img alt="dendamsitikus" src="https://raw.githubusercontent.com/riecho14/Dendam-Si-Tikus/main/logo.svg" height="25" align="left"> </a>
+  <a href="https://github.com/riecho14/Dendam-Si-Tikus" target="_blank"> <img alt="dendamsitikus" src="https://raw.githubusercontent.com/riecho14/README_icons/main/logo.svg" height="25" align="left"> </a>
   <a href="https://github.com/riecho14/README_icons" target="_blank"> <img alt="readmeicons" src="https://raw.githubusercontent.com/riecho14/README_icons/main/logo.svg" height="25" align="left"> </a>
-  <a href="https://github.com/riecho14/Green-Trash" target="_blank"> <img alt="greentrash" src="https://raw.githubusercontent.com/riecho14/Green-Trash/main/logo.svg" height="25" align="left"> </a>
+  <a href="https://github.com/riecho14/Green-Trash" target="_blank"> <img alt="greentrash" src="https://raw.githubusercontent.com/riecho14/README_icons/main/logo.svg" height="25" align="left"> </a>
   </p>
