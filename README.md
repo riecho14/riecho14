@@ -26,7 +26,6 @@
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=riecho14&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/riecho14/riecho14?color=black&logo=github" />
 </p>
 
 <hr>
